@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C++ / ASMx86
 - 📫 How to reach me ->
 {
-  "telegram":"@NakamaLeet"
+  "telegram":"@incoming"
 }
